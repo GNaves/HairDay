@@ -13,17 +13,8 @@ HairdDay é uma aplicação simples para agendamento de cortes de cabelo, desenv
 
 A estrutura do projeto é modular e organizada da seguinte maneira:
 
-src/
-├── assets/           # Imagens e ícones
-├── modules/          # Lógica da aplicação
-│   ├── form/         # Manipulação de formulários
-│   ├── schedules/    # Gerenciamento de agendamentos
-│   └── utils/        # Funções utilitárias
-├── services/         # Comunicação com a API
-├── styles/           # Arquivos de estilo (CSS)
-├── libs/             # Configuração de bibliotecas (ex.: dayjs)
-├── main.js           # Ponto de entrada da aplicação
-└── api-config.js     # Configuração de acesso à API
+![Captura de Tela 2024-12-09 às 17 28 13](https://github.com/user-attachments/assets/53333694-e5b6-4328-83f9-336e41b62223)
+
 
 🛠️ Tecnologias Utilizadas
 
